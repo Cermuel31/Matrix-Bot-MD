@@ -97,7 +97,7 @@ Deploy the bot and easily connect it to your WhatsApp account by pair code. Clic
 
 ### Step 3: Deploy Now
 
-For further customization and setup guidance, click the button below:
+For further customization click the button below:
 
 <div align="center">
   <a href="https://youtube/@dopematrix"
